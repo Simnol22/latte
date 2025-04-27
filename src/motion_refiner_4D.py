@@ -17,8 +17,8 @@ try:
     from motion_refiner.src.functions import *
 except:
     try:
-        from src.functions import *
-        from src.config import *
+        from latte.src.functions import *
+        from latte.src.config import *
 
     except:
         from functions import *

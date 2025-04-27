@@ -3,6 +3,7 @@ bags/
 user_trajs/
 models/*
 data/*
+image_dataset/*
 build/*
 build/
 .vscode

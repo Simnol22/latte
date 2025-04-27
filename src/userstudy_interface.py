@@ -6,15 +6,15 @@ from matplotlib import animation
 from matplotlib.widgets import Button,Slider, TextBox, RadioButtons
 
 import re
-from src.functions import *
+from latte.src.functions import *
 from matplotlib import rc
 import textwrap
 import random
 import json
-from src.config import *
+from latte.src.config import *
 import datetime
 import sys
-from src.config import *
+from latte.src.config import *
 # rc('text', usetex=True)
 
 class User_study_interface():
